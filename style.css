@@ -4,6 +4,10 @@ body{
 p{
     font-style:oblique;
 }
+
+img{
+    border:2pt solid #00ff00;
+}
 /* Jeremy Bednar 
     
 */
